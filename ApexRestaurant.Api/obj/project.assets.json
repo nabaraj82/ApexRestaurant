@@ -4,7 +4,7 @@
     ".NETCoreApp,Version=v3.1": {
       "ApexRestaurant.Repository/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
+        "framework": "Unsupported,Version=v0.0",
         "compile": {
           "bin/placeholder/ApexRestaurant.Repository.dll": {}
         },
@@ -51,11 +51,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ApexRestaurant.Mvc\\ApexRestaurant.Api\\ApexRestaurant.Api.csproj",
+      "projectUniqueName": "d:\\ApexRestaurant.Mvc\\ApexRestaurant.Api\\ApexRestaurant.Api.csproj",
       "projectName": "ApexRestaurant.Api",
-      "projectPath": "D:\\ApexRestaurant.Mvc\\ApexRestaurant.Api\\ApexRestaurant.Api.csproj",
+      "projectPath": "d:\\ApexRestaurant.Mvc\\ApexRestaurant.Api\\ApexRestaurant.Api.csproj",
       "packagesPath": "C:\\Users\\nabar\\.nuget\\packages\\",
-      "outputPath": "D:\\ApexRestaurant.Mvc\\ApexRestaurant.Api\\obj\\",
+      "outputPath": "d:\\ApexRestaurant.Mvc\\ApexRestaurant.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nabar\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -69,11 +69,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\ApexRestaurant.Mvc\\ApexRestaurant.Repository\\ApexRestaurant.Repository.csproj": {
-              "projectPath": "D:\\ApexRestaurant.Mvc\\ApexRestaurant.Repository\\ApexRestaurant.Repository.csproj"
+            "d:\\ApexRestaurant.Mvc\\ApexRestaurant.Repository\\ApexRestaurant.Repository.csproj": {
+              "projectPath": "d:\\ApexRestaurant.Mvc\\ApexRestaurant.Repository\\ApexRestaurant.Repository.csproj"
             },
-            "D:\\ApexRestaurant.Mvc\\ApexRestaurant.Services\\ApexRestaurant.Services.csproj": {
-              "projectPath": "D:\\ApexRestaurant.Mvc\\ApexRestaurant.Services\\ApexRestaurant.Services.csproj"
+            "d:\\ApexRestaurant.Mvc\\ApexRestaurant.Services\\ApexRestaurant.Services.csproj": {
+              "projectPath": "d:\\ApexRestaurant.Mvc\\ApexRestaurant.Services\\ApexRestaurant.Services.csproj"
             }
           }
         }
@@ -107,5 +107,16 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.414\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project ApexRestaurant.Repository is not compatible with netcoreapp3.1 (.NETCoreApp,Version=v3.1). Project ApexRestaurant.Repository supports: net5.0 (.NETCoreApp,Version=v5.0)",
+      "libraryId": "ApexRestaurant.Repository",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }

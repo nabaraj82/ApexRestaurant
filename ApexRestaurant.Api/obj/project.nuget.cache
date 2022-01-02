@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "APfRjK7IaAN2j/EgVrygx40wWIHK5YtXtR/NJPKRPrIZm5aSL7oKceQ0scKnwo8KHrROGT37YPLGomYEF9irvg==",
-  "success": true,
-  "projectFilePath": "D:\\ApexRestaurant.Mvc\\ApexRestaurant.Api\\ApexRestaurant.Api.csproj",
+  "dgSpecHash": "nElHtHguornQgp6vqhrS7CCgMWB1noRtaP2NRxjC+XK2LNCNB/FT7qobBuRQCfgAacHykGy+0ZS8wABnOjaPqg==",
+  "success": false,
+  "projectFilePath": "d:\\ApexRestaurant.Mvc\\ApexRestaurant.Api\\ApexRestaurant.Api.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project ApexRestaurant.Repository is not compatible with netcoreapp3.1 (.NETCoreApp,Version=v3.1). Project ApexRestaurant.Repository supports: net5.0 (.NETCoreApp,Version=v5.0)",
+      "libraryId": "ApexRestaurant.Repository",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }

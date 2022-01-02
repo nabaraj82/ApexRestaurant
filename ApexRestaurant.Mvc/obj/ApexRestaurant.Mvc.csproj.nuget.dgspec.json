@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ApexRestaurant.Mvc\\ApexRestaurant.Mvc\\ApexRestaurant.Mvc.csproj": {}
+    "d:\\ApexRestaurant.Mvc\\ApexRestaurant.Mvc\\ApexRestaurant.Mvc.csproj": {}
   },
   "projects": {
-    "D:\\ApexRestaurant.Mvc\\ApexRestaurant.Mvc\\ApexRestaurant.Mvc.csproj": {
+    "d:\\ApexRestaurant.Mvc\\ApexRestaurant.Mvc\\ApexRestaurant.Mvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ApexRestaurant.Mvc\\ApexRestaurant.Mvc\\ApexRestaurant.Mvc.csproj",
+        "projectUniqueName": "d:\\ApexRestaurant.Mvc\\ApexRestaurant.Mvc\\ApexRestaurant.Mvc.csproj",
         "projectName": "ApexRestaurant.Mvc",
-        "projectPath": "D:\\ApexRestaurant.Mvc\\ApexRestaurant.Mvc\\ApexRestaurant.Mvc.csproj",
+        "projectPath": "d:\\ApexRestaurant.Mvc\\ApexRestaurant.Mvc\\ApexRestaurant.Mvc.csproj",
         "packagesPath": "C:\\Users\\nabar\\.nuget\\packages\\",
-        "outputPath": "D:\\ApexRestaurant.Mvc\\ApexRestaurant.Mvc\\obj\\",
+        "outputPath": "d:\\ApexRestaurant.Mvc\\ApexRestaurant.Mvc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nabar\\AppData\\Roaming\\NuGet\\NuGet.Config"
